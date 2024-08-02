@@ -1,0 +1,33 @@
+{
+    "conteudos": [
+      {
+        "id": 1,
+        "titulo": "Artigo sobre JavaScript",
+        "descricao": "Um artigo completo sobre as novas features do ES2021.",
+        "urlImagem": "path/to/imagem1.jpg",
+        "url": "."
+      },
+      {
+        "id": 2,
+        "titulo": "Vídeo tutorial React",
+        "descricao": "Aprenda a criar aplicações com React.",
+        "urlImagem": "path/to/imagem2.jpg",
+        "url": "."
+      }
+    ],
+    "colegas": [
+      {
+        "id": 1,
+        "fotoUrl": "path/to/foto1.jpg",
+        "nome": "Alipio Avelar",
+        "githubUrl": "https://github.com/alipioavelar"
+      },
+      {
+        "id": 2,
+        "fotoUrl": "path/to/foto2.jpg",
+        "nome": "Nuno Nunes",
+        "githubUrl": "https://github.com/nunonpc"
+      }
+    ]
+  }
+  
